@@ -1,0 +1,6 @@
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical3\obj\Debug\Practical3.csprojAssemblyReference.cache
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical3\bin\Debug\Practical3.exe.config
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical3\bin\Debug\Practical3.exe
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical3\bin\Debug\Practical3.pdb
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical3\obj\Debug\Practical3.exe
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical3\obj\Debug\Practical3.pdb
