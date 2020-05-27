@@ -5,18 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Practical4")]
+[assembly: AssemblyTitle("HelloWorld")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-<<<<<<< HEAD
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Practical4")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2020")]
-=======
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Practical4")]
+[assembly: AssemblyProduct("HelloWorld")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
->>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -26,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-<<<<<<< HEAD
-[assembly: Guid("28a7da12-be3b-4209-b71a-aea481112155")]
-=======
-[assembly: Guid("b1a0b1f8-0312-4109-a135-57c1da44d310")]
->>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac
+[assembly: Guid("c4ec0830-7642-4319-a573-5dcfb7f0024d")]
 
 // Version information for an assembly consists of the following four values:
 //

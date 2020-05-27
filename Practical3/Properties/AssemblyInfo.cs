@@ -8,9 +8,15 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Practical3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
+<<<<<<< HEAD
 [assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("Practical3")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2020")]
+=======
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Practical3")]
+[assembly: AssemblyCopyright("Copyright ©  2020")]
+>>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +26,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("a19c9545-ac99-4773-b874-ec06d530abee")]
+=======
+[assembly: Guid("e7d9474f-7b90-499a-a48b-0473332e7767")]
+>>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac
 
 // Version information for an assembly consists of the following four values:
 //

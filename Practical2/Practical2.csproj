@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{2EC8F2E5-44A5-430C-8E73-25A6AE27139A}</ProjectGuid>
+=======
+    <ProjectGuid>{6200B92E-A3A0-4262-87A2-084DE42867AF}</ProjectGuid>
+>>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac
     <OutputType>Exe</OutputType>
     <RootNamespace>Practical2</RootNamespace>
     <AssemblyName>Practical2</AssemblyName>

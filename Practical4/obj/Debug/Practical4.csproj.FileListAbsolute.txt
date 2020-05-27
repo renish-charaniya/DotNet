@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical4\bin\Debug\Practical4.exe.config
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical4\bin\Debug\Practical4.exe
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical4\bin\Debug\Practical4.pdb
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical4\obj\Debug\Practical4.csprojAssemblyReference.cache
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical4\obj\Debug\Practical4.exe
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical4\obj\Debug\Practical4.pdb
+=======
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical4\bin\Debug\Practical4.exe.config
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical4\bin\Debug\Practical4.exe
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical4\bin\Debug\Practical4.pdb
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical4\obj\Debug\Practical4.csprojAssemblyReference.cache
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical4\obj\Debug\Practical4.exe
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical4\obj\Debug\Practical4.pdb
+>>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac

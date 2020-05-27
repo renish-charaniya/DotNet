@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical2\bin\Debug\Practical2.exe.config
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical2\bin\Debug\Practical2.exe
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical2\bin\Debug\Practical2.pdb
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical2\obj\Debug\Practical2.exe
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical2\obj\Debug\Practical2.pdb
 C:\Users\Chirag\source\repos\DotNetPracticals\Practical2\obj\Debug\Practical2.csprojAssemblyReference.cache
+=======
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical2\bin\Debug\Practical2.exe.config
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical2\bin\Debug\Practical2.exe
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical2\bin\Debug\Practical2.pdb
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical2\obj\Debug\Practical2.csprojAssemblyReference.cache
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical2\obj\Debug\Practical2.exe
+G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical2\obj\Debug\Practical2.pdb
+>>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac

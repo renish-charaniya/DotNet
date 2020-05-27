@@ -4,14 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{A19C9545-AC99-4773-B874-EC06D530ABEE}</ProjectGuid>
-=======
-    <ProjectGuid>{E7D9474F-7B90-499A-A48B-0473332E7767}</ProjectGuid>
->>>>>>> 323782afd325f0a8daca94052819a2230d5d0aac
+    <ProjectGuid>{22EB8113-C9D1-4853-A663-183D23415A4C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Practical3</RootNamespace>
-    <AssemblyName>Practical3</AssemblyName>
+    <RootNamespace>Practical1</RootNamespace>
+    <AssemblyName>Practical1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
